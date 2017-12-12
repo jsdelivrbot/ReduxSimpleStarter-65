@@ -1,0 +1,25 @@
+.search-bar{
+    margin:20px;
+    text-align: center;
+}
+.search-bar input{
+    width:75%;
+}
+
+.list-group-item{
+    border:1px solid lightgrey!important;
+    border-radius:none!important;
+    cursor:pointer;
+}
+.list-group-item:hover{
+    border-left:1px solid black!important;
+    background:lightgray;
+}
+
+
+.video-detail h1{
+    font-size:22px;
+    margin-top:10px;
+    border-bottom:1px solid black;
+    padding:10px 0px;
+}
