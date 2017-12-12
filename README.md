@@ -1,1 +1,1 @@
-# Learing Redux and React
+# Learning Redux and React
